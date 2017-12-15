@@ -21,6 +21,6 @@ AutoSave.ahk
     
 netease-music-to-tg.ahk
     assist in migrating music from Netease to Telegram.
-    Check out `this page`_ (Chinese) for tutorial.
+    Check out the tutorial_ (Chinese).
     
-.. _this page: http://telegra.ph/Telegram-%E9%87%8C%E5%90%AC%E7%BD%91%E6%98%93%E4%BA%91%E6%AD%8C%E5%8D%95-10-22
+.. _tutorial: http://telegra.ph/Telegram-%E9%87%8C%E5%90%AC%E7%BD%91%E6%98%93%E4%BA%91%E6%AD%8C%E5%8D%95-10-22
