@@ -9,7 +9,7 @@ Scripts
 unsleep.ahk
     keep system awake by artificially pressing "Scroll Lock" key.  
     Used in computer lab of some university. 
-    Computer will automatically close if you idle for a few minutes.
+    Computer will automatically log off if you idle for a few minutes.
     
 AutoSave.ahk
     It has 2 modes helping you auto-save.
